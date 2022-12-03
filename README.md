@@ -1,6 +1,6 @@
 ## bonnguyenitc
 
-![bonnguyenitc's github stats](https://github-readme-stats.vercel.app/api?username=bonnguyenitc&count_private=true&show_icons=true&theme=radical)
+<!-- ![bonnguyenitc's github stats](https://github-readme-stats.vercel.app/api?username=bonnguyenitc&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- - 👋 Hi, I’m @bonnguyenitc
 - 👀 I’m interested in ...
