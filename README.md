@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm bonguyenitc</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam</h3>
-
-- 🌱 I’m currently learning **python**
-
-- 💬 Ask me about **react, react native, javascript/typescript, golang, php**
+<h1 align="center">Hi 👋,</h1>
+Hello! 👋
+I'm [Your Name], a dedicated React Native developer with a passion for crafting high-performance, cross-platform mobile applications. I specialize in building seamless and engaging user experiences, leveraging the power of React Native to deliver apps that feel native on both iOS and Android.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
