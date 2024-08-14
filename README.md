@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋,</h1>
-Hello! 👋
-I'm [Your Name], a dedicated React Native developer with a passion for crafting high-performance, cross-platform mobile applications. I specialize in building seamless and engaging user experiences, leveraging the power of React Native to deliver apps that feel native on both iOS and Android.
+<h3>Hello! 👋</h3>
+<p>I'm Thoai Nguyen, a seasoned React Native developer with 7 years of experience in building high-performance, cross-platform mobile applications. Over the years, I've honed my skills in creating seamless and engaging user experiences, leveraging the full power of React Native to deliver apps that feel native on both iOS and Android.</p>
+
+📱 Core Skills:
+
+- Mobile Development: React Native
+- Front-end: NextJS, React
+- Back-end: Node.js, Express, Firebase, RESTful APIs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
