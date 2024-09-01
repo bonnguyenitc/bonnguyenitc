@@ -1,7 +1,3 @@
-Here's an updated GitHub README template that reflects your full-stack expertise:
-
----
-
 # 👋 Hi, I'm Thoai Nguyen!
 
 I’m a seasoned **Full-Stack Developer** with **7 years of experience** in building robust and scalable web and mobile applications using **React**, **React Native**, and **Node.js**. My passion lies in crafting seamless user experiences and efficient, maintainable code across the stack.
