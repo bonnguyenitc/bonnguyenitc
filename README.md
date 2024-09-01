@@ -34,12 +34,12 @@ I’m committed to continuous learning and am currently exploring:
 
 I’m always open to new opportunities and collaborations. Let’s connect!
 
-- **Email:** [ntthoaiit@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/nguyen-tan-thoai-149306205/]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nguyen-tan-thoai-149306205/))
+- **Email:** ntthoaiit@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/nguyen-tan-thoai-149306205](https://www.linkedin.com/in/nguyen-tan-thoai-149306205)
 
 ## 🌐 Find Me Around the Web
 
-- Twitter: [@bonnguyenitc]([https://twitter.com/yourhandle](https://x.com/bonnguyenitc))
+- Twitter: [@bonnguyenitc](https://x.com/bonnguyenitc)
 
 ---
 
