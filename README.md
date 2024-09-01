@@ -35,7 +35,7 @@ I’m committed to continuous learning and am currently exploring:
 I’m always open to new opportunities and collaborations. Let’s connect!
 
 - **Email:** ntthoaiit@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/nguyen-tan-thoai-149306205](https://www.linkedin.com/in/nguyen-tan-thoai-149306205)
+- **LinkedIn:** [https://www.linkedin.com/in/bonnguyenitc](https://www.linkedin.com/in/bonnguyenitc)
 
 ## 🌐 Find Me Around the Web
 
