@@ -1,11 +1,53 @@
-<h3>Hello! 👋</h3>
-<p>I'm Thoai Nguyen, a seasoned React Native developer with 7 years of experience in building high-performance, cross-platform mobile applications. Over the years, I've honed my skills in creating seamless and engaging user experiences, leveraging the full power of React Native to deliver apps that feel native on both iOS and Android.</p>
+Here's an updated GitHub README template that reflects your full-stack expertise:
 
-📱 Core Skills:
+---
 
-- Mobile Development: React Native
-- Front-end: NextJS, React
-- Back-end: Node.js, Express, Firebase, RESTful APIs
+# 👋 Hi, I'm Thoai Nguyen!
+
+I’m a seasoned **Full-Stack Developer** with **7 years of experience** in building robust and scalable web and mobile applications using **React**, **React Native**, and **Node.js**. My passion lies in crafting seamless user experiences and efficient, maintainable code across the stack.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript
+- **Front-End:** React, React Native, Redux, Next.js, Zustand, Mobx
+- **Back-End:** Node.js, Express, GraphQL, REST APIs
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Mobile Development:** React Native, iOS, Android, Expo
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira, Trello, Backlog
+
+## 🚀 My Journey
+
+Throughout my career, I have been involved in full-stack development, delivering end-to-end solutions for various industries. My experience spans across building web applications, mobile apps, and server-side logic, all with a focus on performance and user satisfaction.
+
+## 🛠️ What I’m Currently Working On
+
+I’m currently focused on:
+- Developing scalable web applications with React and Node.js
+- Enhancing mobile applications using React Native
+- Exploring new technologies and best practices in full-stack development
+
+## 🌱 What I’m Learning Next
+
+I’m committed to continuous learning and am currently exploring:
+- Advanced server-side optimizations
+- Microservices architecture with Node.js
+- DevOps practices and cloud computing with AWS
+
+## 📫 How to Reach Me
+
+I’m always open to new opportunities and collaborations. Let’s connect!
+
+- **Email:** [ntthoaiit@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/nguyen-tan-thoai-149306205/]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nguyen-tan-thoai-149306205/))
+
+## 🌐 Find Me Around the Web
+
+- Twitter: [@bonnguyenitc]([https://twitter.com/yourhandle](https://x.com/bonnguyenitc))
+
+---
+
+Feel free to personalize this further with your specific projects and interests!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
